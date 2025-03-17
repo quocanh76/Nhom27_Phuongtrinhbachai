@@ -36,6 +36,8 @@ Bao gồm hai màn hình chính:
 - `second_activity.xml`  
   - Giao diện hiển thị nghiệm của phương trình.  
   - Nút "Clear" và "Back".  
+## Giao diện
+![image](https://github.com/user-attachments/assets/e2c6060b-3045-495a-ae4d-e3faf5502d5e)  ![image](https://github.com/user-attachments/assets/49af3b91-7843-4b3b-af8b-18af08bffd99)
 
 ## Cách Sử Dụng
 1. Nhập giá trị `a`, `b`, `c` vào ô nhập liệu.  
