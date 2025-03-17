@@ -38,6 +38,8 @@ Bao gồm hai màn hình chính:
   - Nút "Clear" và "Back".  
 ## Giao diện
 ![image](https://github.com/user-attachments/assets/e2c6060b-3045-495a-ae4d-e3faf5502d5e)  ![image](https://github.com/user-attachments/assets/49af3b91-7843-4b3b-af8b-18af08bffd99)
+<br>
+![image](https://github.com/user-attachments/assets/9e38e061-3d03-4506-a1b8-550c8ef5be1e)  ![image](https://github.com/user-attachments/assets/08216470-3fd2-40e0-ade8-3b1854b84275)
 
 ## Cách Sử Dụng
 1. Nhập giá trị `a`, `b`, `c` vào ô nhập liệu.  
