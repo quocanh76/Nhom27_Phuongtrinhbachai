@@ -50,5 +50,7 @@ Bao gồm hai màn hình chính:
 ## Tác Giả
 Ứng dụng được phát triển bởi:
 **Nhóm 27**
+<br>
 **21200026 - Nguyễn Trường An**
+<br>
 **21200027 - Hà Quốc Anh**.  
