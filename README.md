@@ -35,17 +35,17 @@ Bao gồm hai màn hình chính:
 
 - `second_activity.xml`  
   - Giao diện hiển thị nghiệm của phương trình.  
-  - Nút "Clear" và "Back".  
+  - Nút "Clear" và "Back".
 ## Giao diện
 ![image](https://github.com/user-attachments/assets/e2c6060b-3045-495a-ae4d-e3faf5502d5e)  ![image](https://github.com/user-attachments/assets/49af3b91-7843-4b3b-af8b-18af08bffd99)
 <br>
-![image](https://github.com/user-attachments/assets/9e38e061-3d03-4506-a1b8-550c8ef5be1e)  ![image](https://github.com/user-attachments/assets/08216470-3fd2-40e0-ade8-3b1854b84275)
-
 ## Cách Sử Dụng
 1. Nhập giá trị `a`, `b`, `c` vào ô nhập liệu.  
 2. Nhấn nút **"Giải phương trình"** để chuyển sang màn hình kết quả.  
 3. Xem nghiệm của phương trình hiển thị trên màn hình.  
-4. Nhấn **"Clear"** để xóa kết quả hoặc **"Back"** để quay về màn hình chính.  
-
+4. Nhấn **"Clear"** để xóa kết quả hoặc **"Back"** để quay về màn hình chính.
+## Giao diện
+![image](https://github.com/user-attachments/assets/a16ebe48-7ae9-4b5c-83ca-c45557b0d7b9)  ![image](https://github.com/user-attachments/assets/2724b8ff-fad6-436c-b326-3db8cbcd5a03)
+<br>
 ## Tác Giả
 Ứng dụng được phát triển bởi **Hà Quốc Anh**.  
