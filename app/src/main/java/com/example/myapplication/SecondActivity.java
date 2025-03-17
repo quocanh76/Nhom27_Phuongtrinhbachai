@@ -58,6 +58,10 @@ public class SecondActivity extends AppCompatActivity {
 
     // Method to solve quadratic equation
     private String solveQuadraticEquation(double a, double b, double c) {
+        if(a==0 && b==0 && c==0)
+        {
+            return "Phuong trinh vo so nghiem";
+        }
         if (a == 0) {
             return (b == 0) ? "Phuong trinh vo nghiem" : "x = " + (-c / b);
         }
