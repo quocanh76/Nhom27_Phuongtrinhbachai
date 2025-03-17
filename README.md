@@ -48,4 +48,7 @@ Bao gồm hai màn hình chính:
 ![image](https://github.com/user-attachments/assets/a16ebe48-7ae9-4b5c-83ca-c45557b0d7b9)  ![image](https://github.com/user-attachments/assets/2724b8ff-fad6-436c-b326-3db8cbcd5a03)
 <br>
 ## Tác Giả
-Ứng dụng được phát triển bởi **Hà Quốc Anh**.  
+Ứng dụng được phát triển bởi:
+**Nhóm 27**
+**21200026 - Nguyễn Trường An**
+**21200027 - Hà Quốc Anh**.  
